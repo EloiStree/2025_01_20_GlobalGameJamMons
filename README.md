@@ -1,6 +1,21 @@
-⚠️ **Ceci n'est qu'une proposition en cours de discussion**. L'atelier pourrait avoir lieu, mais aucune garantie n'est encore donnée à ce stade.  
-La Global Game Jam étant dans moins d'un mois, et la validation prévue autour du 8 janvier, ce document a pour but de mettre en avant la possibilité d'un atelier Global Game Jam à Technocité.  
-Si vous êtes intéressé(e) à y participer, n'hésitez pas à me contacter sur Discord (GGJ_Mons-2025) : [https://discord.gg/DdqZ3H5h2A](https://discord.gg/DdqZ3H5h2A).  
+
+[![GlobalGameJam](https://github.com/user-attachments/assets/e5311824-8110-4aa9-b5b2-f7df63984a9f)](https://technocite.be/formations/creer-un-jeu-video-en-5-jours)
+
+Global Game Jam: 
+
+**Inscription, 20-24**, Technocité:
+- https://technocite.be/formations/creer-un-jeu-video-en-5-jours
+**Inscription, 24-26**, CG Academy: 
+- https://globalgamejam.org/jam-sites/2025/cgacademy
+  - https://cgacademy.be/ggj  https://cgacademy.be/discord
+
+
+
+Contact: 
+- Coach: EloiStree [https://discord.gg/DdqZ3H5h2A](https://discord.gg/DdqZ3H5h2A).
+- Responsable: Bruno Follet [https://technocite.be/lequipe/](https://technocite.be/lequipe/)
+
+ -------------------
 
 
 _La proposition de prendre en charge la global ayant été tardive de ma part, il n'y a pas de local mis à dispotion pour le weekend._
