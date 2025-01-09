@@ -3,9 +3,10 @@
 
 Global Game Jam: 
 
-**Inscription, 20-24**, Technocité:
+**Inscription, 20-24**, Technocité:  
 - https://technocite.be/formations/creer-un-jeu-video-en-5-jours
-**Inscription, 24-26**, CG Academy: 
+
+**Inscription, 24-26**, CG Academy:   
 - https://globalgamejam.org/jam-sites/2025/cgacademy
   - https://cgacademy.be/ggj  https://cgacademy.be/discord
 
