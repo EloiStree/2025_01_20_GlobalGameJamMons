@@ -166,7 +166,15 @@ Pour ceux qui participent à la Global Game Jam le week-end, rendez-vous tranqui
 The moment has arrived! Come watch live with us as we reveal the theme for GGJ 25!  
 We will be live on YouTube and Twitch on January 19th from 6pm-7pm UTC!   
 [https://www.youtube.com/live/u0cI4fJ-vhM](https://www.youtube.com/live/u0cI4fJ-vhM)  
-
+![image](https://github.com/user-attachments/assets/bc7820e8-05c7-4fa8-9349-0456a058c7e0)
+![image](https://github.com/user-attachments/assets/3c868d06-7455-4480-a149-74bcd65b17a0)
+![image](https://github.com/user-attachments/assets/e2384b89-4248-4678-b792-7692296e384f)
+![image](https://github.com/user-attachments/assets/892c3bfc-721e-49b1-b733-bc9500c3961d)
+![image](https://github.com/user-attachments/assets/58836508-28df-4569-87c4-302372517727)
+![image](https://github.com/user-attachments/assets/2d940d7c-9517-4f23-97bc-12abdcf46f7a)
+![image](https://github.com/user-attachments/assets/abe28654-b1c6-4dc8-8cd3-66cf6c6a2923)
+![image](https://github.com/user-attachments/assets/93c3fdf1-6878-4858-958d-b3b2d5826269)
+![image](https://github.com/user-attachments/assets/e2998159-17d5-49ed-bb5e-de062ccecfd2)
 [![image](https://github.com/user-attachments/assets/4a1b7d94-21e7-4349-a945-e586d307374d)](https://youtu.be/u0cI4fJ-vhM)  
 https://youtu.be/u0cI4fJ-vhM  
 
