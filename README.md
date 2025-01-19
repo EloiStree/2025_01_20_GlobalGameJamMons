@@ -64,3 +64,97 @@ Que ce soit pour, des questions:
 
 
 
+-----------------
+
+
+# Planning
+
+### Classique
+
+#### Planning habituel de jam :
+
+**Vendredi :**  
+- Former les groupes entre 17h et 19h, idéalement avec des personnes inconnues.  
+- Brainstormer une idée sympa jusqu'à 22h ou 23h.  
+- Préparer les dépôts Git et un prototype de contrôle avant 2h.  
+
+**Samedi :**  
+- Travailler en groupe sur le jeu dès le matin.  
+- Donner un bon coup de motivation à midi.  
+- Viser à avoir un jeu jouable avant 17h-19h.  
+- Tester les jeux en début de soirée, idéalement avant 23h.  
+- Travailler tard dans la nuit (jusqu'à 3h) pour avancer, si nécessaire.  
+
+**Dimanche :**  
+- Ignorer les éléments « nice-to-have ».  
+- Se concentrer sur finaliser les bouts de code essentiels.  
+- Pousser une version stable du jeu.  
+- Faire une petite pause déjeuner avant la dernière ligne droite.  
+- Ranger un peu le matériel et nettoyer les espaces de travail.  
+- Tout finaliser avant les présentations.  
+- Apporter les dernières corrections (bugfix) avec une nouvelle version.  
+- Réaliser une courte vidéo pour les archives, en prévision d'éventuels problèmes avant la présentation.  
+- Présenter les projets.  
+- Ranger le matériel.  
+- Aller dormir !  
+
+**Bloody Monday :**  
+Pensez à faire vos archives et sauvegardes dès le dimanche soir dans le train ou le lundi matin. Après la jam, le temps manquera souvent pour le faire.  
+Une petite vidéo rapide, un fichier ZIP, et deux ou trois captures d’écran peuvent sauver votre travail et vos souvenirs.  
+
+
+Voici une version corrigée et optimisée de votre planning :  
+
+
+#### **Notre planning**  
+
+> Fair les équipes
+
+**Lundi matin :**  
+Former les équipes, trouver la thématique et brainstormer.  
+
+**Lundi après-midi :**  
+Continuer à brainstormer si nécessaire et commencer à préparer le dépôt Git ainsi que les outils de travail.  
+
+> Un premier jet
+
+**Mardi matin :**  
+Chaque membre de l’équipe devrait avoir une idée claire de ce qu’il souhaite coder pour le projet.  
+
+**Mardi après-midi :**  
+Une fonctionnalité par participant devrait émerger pour contribuer au projet.  
+
+> Fusion
+
+**Mercredi matin :**  
+Commencer à fusionner les assets et les éléments de chaque membre.  
+
+**Mercredi après-midi :**  
+Essayer d’obtenir une version jouable, même avec des éléments simples (cubes, ronds, etc.).  
+
+> Prêts ou pas, nous y sommes déjà.
+
+**Jeudi matin :**  
+Dernière ligne droite : abandonner les « nice-to-have » et se concentrer sur les éléments essentiels (le cœur du jeu ou "CCC" : Concept, Code, Contenu).  
+
+**Jeudi après-midi :**  
+Jouer à votre jeu pour effectuer les dernières corrections et ajuster l’échelle ou le périmètre (scope).  
+
+> On ajoute le sel, le poivre et la verdure.
+
+**Vendredi matin :**  
+Le jeu doit être terminé. Profitez-en pour le nettoyer, ajouter un menu et le peaufiner.  
+
+**Vendredi après-midi :**  
+Publiez votre jeu sur Itch.io et sur le site de la Global Game Jam, si possible. Prenez également le temps de tester les jeux des autres.  
+
+**Vendredi 15h ?**  
+Pour ceux qui participent à la Global Game Jam le week-end, rendez-vous tranquillement à la CG Academy à Mons.  
+
+
+
+### Theme
+"For the usual in person GGJ the theme is announced at each local jam site after 17:00 local time on Friday. Time zones from New Zealand to Hawaii are all participating.
+For GGJ 2025 we will be announcing the theme globally at the same time about a week before the jam, exact date and time TBA, on [twitch.tv/globalgamejam](https://www.twitch.tv/globalgamejam)"
+
+
