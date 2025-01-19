@@ -165,7 +165,7 @@ Pour ceux qui participent à la Global Game Jam le week-end, rendez-vous tranqui
 
 The moment has arrived! Come watch live with us as we reveal the theme for GGJ 25!  
 We will be live on YouTube and Twitch on January 19th from 6pm-7pm UTC!   
-[https://www.youtube.com/live/u0cI4fJ-vhM](https://www.youtube.com/live/u0cI4fJ-vhM)  
+[https://youtu.be/u0cI4fJ-vhM?t=1523](https://youtu.be/u0cI4fJ-vhM?t=1523)
 ![image](https://github.com/user-attachments/assets/bc7820e8-05c7-4fa8-9349-0456a058c7e0)
 ![image](https://github.com/user-attachments/assets/3c868d06-7455-4480-a149-74bcd65b17a0)
 ![image](https://github.com/user-attachments/assets/e2384b89-4248-4678-b792-7692296e384f)
