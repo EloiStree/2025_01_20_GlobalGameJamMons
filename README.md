@@ -165,3 +165,23 @@ The moment has arrived! Come watch live with us as we reveal the theme for GGJ 2
 We will be live on YouTube and Twitch on January 19th from 6pm-7pm UTC!   
 [https://www.youtube.com/live/u0cI4fJ-vhM](https://www.youtube.com/live/u0cI4fJ-vhM)  
 
+
+
+**Trucs et astuces :**  
+Selon la "loi de Pi", une tâche estimée à une heure prendra en réalité 3,14 heures en raison de la recherche, du développement et des bugs.  
+
+Durant une jam, voici le temps à disposition :  
+- **Vendredi :** 3,14 heures.  
+- **Samedi :** 3,14 heures le matin, à midi et le soir.  
+  - + 3,14 heures pour ceux qui dorment peu.  
+- **Dimanche matin :** 3,14 heures.  
+
+Votre jeu devrait donc être réalisable en **4 à 5 petites fonctionnalités d'une heure chacune par personne**, si votre objectif est de livrer un jeu "fini" dimanche.  
+
+Cependant, vous n'êtes pas obligé de viser un jeu fini.
+Cela simplifie l'équation.
+
+Et comme on ne peut pas faire un enfant en un mois avec 9 femmes, n’oubliez pas qu’un travail en groupe consomme également beaucoup de temps.  
+
+
+
