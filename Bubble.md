@@ -15,3 +15,22 @@ https://youtu.be/wq8R3kFM3VQ?t=1283
 
 
 https://youtu.be/wq8R3kFM3VQ
+
+
+
+![image](https://github.com/user-attachments/assets/a2f26059-28c2-4788-89b1-92e971bf45b6)
+![image](https://github.com/user-attachments/assets/2a323ac1-b70e-43ea-90c0-baadf1860fd2)
+![image](https://github.com/user-attachments/assets/fbf31698-aae7-4675-952e-88fd23cac72b)
+![image](https://github.com/user-attachments/assets/6360f6ec-a60e-4634-9091-2f64bba9e2ac)
+![image](https://github.com/user-attachments/assets/e688f571-6b84-4625-a93b-e56594192242)
+
+
+
+[![image](https://github.com/user-attachments/assets/2ac62975-a38d-4454-9709-7a425594a257)](https://emilesonneveld.be/dropbox_proxy/dev_freetime/lbm/weber/fluids.html)
+https://emilesonneveld.be/dropbox_proxy/dev_freetime/lbm/weber/fluids.html
+
+
+
+[![image](https://github.com/user-attachments/assets/76cb5324-9dd7-48d7-a197-d98e229a03cf)](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+
