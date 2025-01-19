@@ -1,4 +1,6 @@
 
+# THEME SPOIL HERE /!\
+
 [![GlobalGameJam](https://github.com/user-attachments/assets/e5311824-8110-4aa9-b5b2-f7df63984a9f)](https://technocite.be/formations/creer-un-jeu-video-en-5-jours)
 
 Global Game Jam: 
@@ -165,6 +167,8 @@ The moment has arrived! Come watch live with us as we reveal the theme for GGJ 2
 We will be live on YouTube and Twitch on January 19th from 6pm-7pm UTC!   
 [https://www.youtube.com/live/u0cI4fJ-vhM](https://www.youtube.com/live/u0cI4fJ-vhM)  
 
+[![image](https://github.com/user-attachments/assets/4a1b7d94-21e7-4349-a945-e586d307374d)](https://youtu.be/u0cI4fJ-vhM)  
+https://youtu.be/u0cI4fJ-vhM  
 
 
 **Trucs et astuces :**  
