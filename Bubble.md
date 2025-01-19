@@ -35,3 +35,6 @@ https://emilesonneveld.be/dropbox_proxy/dev_freetime/lbm/weber/fluids.html
 [![image](https://github.com/user-attachments/assets/76cb5324-9dd7-48d7-a197-d98e229a03cf)](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 https://paveldogreat.github.io/WebGL-Fluid-Simulation/
 
+
+[![image](https://github.com/user-attachments/assets/f5cd902a-e7ba-435a-926f-d3eb88b93aa5)](https://youtu.be/ZIrRoWa2YsI)
+
