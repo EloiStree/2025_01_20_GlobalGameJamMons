@@ -71,6 +71,9 @@ Que ce soit pour, des questions:
 
 # Planning
 
+![image](https://github.com/user-attachments/assets/8cf9a411-a072-40ac-910b-91037f1d9588)
+
+
 ## Classique
 
 ### Planning habituel de jam :
