@@ -160,7 +160,8 @@ Pour ceux qui participent à la Global Game Jam le week-end, rendez-vous tranqui
 
 
 ### Theme
-"For the usual in person GGJ the theme is announced at each local jam site after 17:00 local time on Friday. Time zones from New Zealand to Hawaii are all participating.
-For GGJ 2025 we will be announcing the theme globally at the same time about a week before the jam, exact date and time TBA, on [twitch.tv/globalgamejam](https://www.twitch.tv/globalgamejam)"
 
+The moment has arrived! Come watch live with us as we reveal the theme for GGJ 25!  
+We will be live on YouTube and Twitch on January 19th from 6pm-7pm UTC!   
+[https://www.youtube.com/live/u0cI4fJ-vhM](https://www.youtube.com/live/u0cI4fJ-vhM)  
 
