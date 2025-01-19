@@ -69,9 +69,9 @@ Que ce soit pour, des questions:
 
 # Planning
 
-### Classique
+## Classique
 
-#### Planning habituel de jam :
+### Planning habituel de jam :
 
 **Vendredi :**  
 - Former les groupes entre 17h et 19h, idéalement avec des personnes inconnues.  
@@ -103,12 +103,18 @@ Pensez à faire vos archives et sauvegardes dès le dimanche soir dans le train 
 Une petite vidéo rapide, un fichier ZIP, et deux ou trois captures d’écran peuvent sauver votre travail et vos souvenirs.  
 
 
-Voici une version corrigée et optimisée de votre planning :  
 
 
-#### **Notre planning**  
+### **Notre planning**  
 
-> Fair les équipes
+**Note  :**  
+- Ne sacrifiez pas votre santé. Dormez, hydratez-vous, et prenez des pauses.  
+- Pour ceux qui continuent le week-end :  
+  - Essayez de vous regrouper pour travailler ensemble.  
+  - Mais vous pouvez aussi commencer un nouveau jeu à 17h avec des inconnus.  
+- Le mot "jam" vient des jams musicaux : improviser de la musique avec un ou plusieurs inconnus.  
+  - Il est souvent préférable de sortir de sa zone de confort.
+- Amusez-vous🙌
 
 **Lundi matin :**  
 Former les équipes, trouver la thématique et brainstormer.  
