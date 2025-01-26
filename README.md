@@ -1,9 +1,10 @@
 ## Done
 
-Avec les étudiants durant la semaine:
-- https://github.com/EloiStree/2025_01_20_GlobalGameJamMons/blob/main/done_week.md
-Project du weekend:
-- https://github.com/EloiStree/2025_01_20_GlobalGameJamMons/blob/main/done_weekend.md
+Avec les étudiants durant la semaine:  
+- https://github.com/EloiStree/2025_01_20_GlobalGameJamMons/blob/main/done_week.md    
+
+Project Eloi durant le weekend: 
+- https://github.com/EloiStree/2025_01_20_GlobalGameJamMons/blob/main/done_weekend.md  
 
 -----------------------
 
