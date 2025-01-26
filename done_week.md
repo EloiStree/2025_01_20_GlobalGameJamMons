@@ -3,7 +3,7 @@ https://itch.io/profile/patrice-mathieu-author
 
 Projets publié sur Itch.io
 
-- Team Maxence: https://megg2025.itch.io/bubble-push
+- Team [ĐVMÄX](https://dvmax.itch.io): https://megg2025.itch.io/bubble-push  
 - Team [Brandon](https://www.linkedin.com/in/brandon-decarpentrie-01481a26b/): https://yodan1006.itch.io/pop-n-slime
 - Team [Nicolas](https://www.linkedin.com/in/nicolas-carlier-8872a6176/): https://bunnybusher.itch.io/bubblefactory
 
