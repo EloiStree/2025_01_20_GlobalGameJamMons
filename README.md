@@ -5,6 +5,9 @@ Avec les étudiants durant la semaine:
 
 Project Eloi durant le weekend: 
 - https://github.com/EloiStree/2025_01_20_GlobalGameJamMons/blob/main/done_weekend.md  
+![image](https://github.com/user-attachments/assets/6d4c0372-61ef-45bd-b3db-d911b56d864c)
+
+
 
 -----------------------
 
